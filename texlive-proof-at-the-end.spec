@@ -1,6 +1,6 @@
 Name:		texlive-proof-at-the-end
 Version:	64188
-Release:	1
+Release:	2
 Summary:	A package to move proofs to appendix
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proof-at-the-end
