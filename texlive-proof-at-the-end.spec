@@ -3,7 +3,7 @@ Version:	69602
 Release:	1
 Summary:	A package to move proofs to appendix
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/proof-at-the-end
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/proof-at-the-end
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proof-at-the-end.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/proof-at-the-end.doc.r%{version}.tar.xz
